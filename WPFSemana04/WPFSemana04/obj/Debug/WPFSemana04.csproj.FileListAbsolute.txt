@@ -1,0 +1,16 @@
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\bin\Debug\WPFSemana04.exe.config
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\bin\Debug\WPFSemana04.exe
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\bin\Debug\WPFSemana04.pdb
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.csproj.AssemblyReference.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.csproj.SuggestedBindingRedirects.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\MainWindow.g.cs
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\App.g.cs
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04_MarkupCompile.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04_MarkupCompile.lref
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\MainWindow.baml
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.g.resources
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.Properties.Resources.resources
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.csproj.GenerateResource.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.csproj.CoreCompileInputs.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.exe
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem4\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.pdb
